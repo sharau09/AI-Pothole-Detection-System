@@ -161,13 +161,13 @@ The system provides:
 
 ## 👨‍💻 Author
 
-**Akash Jadhav**
+**Sharau Jagtap**
 
-B.Sc. Computer Science (Hons.)  
-MIT World Peace University, Pune
+MCA  
+Vishwakarama University, Pune
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/sharau09
 
 LinkedIn:
 https://linkedin.com/in/YOUR_LINKEDIN
