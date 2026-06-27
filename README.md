@@ -170,7 +170,7 @@ GitHub:
 https://github.com/sharau09
 
 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
+https://www.linkedin.com/in/sharau-jagtap-2b1080248
 
 ---
 
